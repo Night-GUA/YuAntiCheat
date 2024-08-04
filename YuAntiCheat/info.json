@@ -1,0 +1,21 @@
+{
+  "version": "1.2.1.0",
+
+  "minVer": "latest",
+  "creation": "1",
+  "allowStart": "true",
+  "CanUpdate": "true",
+  "DebugVer": "0.0.0",
+
+  "md5": "03c418f173106b117c459b1d6bc0b52a",
+  "announcement": {
+    "SChinese": "YuAC停止更新\n邀您使用YuEzTools!\n全新YuEzTools！\n功能增多，质量提升！",
+    "English": "YuAC stop its update\nWe want you to use YuEzTools!\nYuET is better than YuAC"
+  },
+
+  "url": {
+    "github": "https://github.com/Team-YuTeam/YuEzTools/releases/download/v1.2.1.0/YuEzTools.dll",
+    "gitee": "https://gitee.com/xigua_ya/YuEzTools/releases/download/v1.2.1.0/YuEzTools.dll",
+    "kkgithub": "https://kkgithub.com/Team-YuTeam/YuEzTools/releases/download/v1.2.1.0/YuEzTools.dll"
+  }
+}
